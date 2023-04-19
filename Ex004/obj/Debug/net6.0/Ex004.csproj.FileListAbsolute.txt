@@ -1,0 +1,15 @@
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/bin/Debug/net6.0/Ex004
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/bin/Debug/net6.0/Ex004.deps.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/bin/Debug/net6.0/Ex004.runtimeconfig.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/bin/Debug/net6.0/Ex004.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/bin/Debug/net6.0/Ex004.pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.csproj.AssemblyReference.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfoInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfo.cs
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.csproj.CoreCompileInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/refint/Ex004.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/Ex004.genruntimeconfig.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex004/obj/Debug/net6.0/ref/Ex004.dll
