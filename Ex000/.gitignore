@@ -1,4 +1,4 @@
-bin
-obj
-ex0.csproj
-.vscode
+bin/
+obj/
+ex0.csproj#
+.vscode#
