@@ -1,0 +1,15 @@
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/bin/Debug/net6.0/Ex006(HW_2)
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/bin/Debug/net6.0/Ex006(HW_2).deps.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/bin/Debug/net6.0/Ex006(HW_2).runtimeconfig.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/bin/Debug/net6.0/Ex006(HW_2).dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/bin/Debug/net6.0/Ex006(HW_2).pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).csproj.AssemblyReference.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).AssemblyInfoInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).AssemblyInfo.cs
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).csproj.CoreCompileInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/refint/Ex006(HW_2).dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/Ex006(HW_2).genruntimeconfig.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/Ex006(HW_2)/obj/Debug/net6.0/ref/Ex006(HW_2).dll
