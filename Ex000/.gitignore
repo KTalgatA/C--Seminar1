@@ -2,3 +2,4 @@ bin/
 obj/
 ex0.csproj#
 .vscode#
+ex0.csproj.nuget.dgspec.json
