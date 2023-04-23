@@ -1,0 +1,15 @@
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/bin/Debug/net6.0/LectionsExample008
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/bin/Debug/net6.0/LectionsExample008.deps.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/bin/Debug/net6.0/LectionsExample008.runtimeconfig.json
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/bin/Debug/net6.0/LectionsExample008.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/bin/Debug/net6.0/LectionsExample008.pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.csproj.AssemblyReference.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.AssemblyInfoInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.AssemblyInfo.cs
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.csproj.CoreCompileInputs.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/refint/LectionsExample008.dll
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.pdb
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/LectionsExample008.genruntimeconfig.cache
+/Users/talgat/Desktop/Обучение/3. Знакомство с языком программирования C#/ex0/LectionsExample008/obj/Debug/net6.0/ref/LectionsExample008.dll
